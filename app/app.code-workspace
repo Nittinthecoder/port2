@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../utils"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"heroicons"
+		]
+	}
+}
